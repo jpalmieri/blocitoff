@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.10'
 
 gem 'devise'
+gem 'figaro', '1.0'
 
 # Use sqlite3 as the database for Active Record
 group :production do
